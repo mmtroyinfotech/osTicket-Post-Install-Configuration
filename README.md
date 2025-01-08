@@ -22,13 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-Configure Roles (for grouping permissions)
-Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-Configure Teams
-Configure Agents (workers)
-Configure Users (customers)
-Configure SLA
-Configure Help Topics (For when users create a ticket)
+- Configure Roles (for grouping permissions)
+- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+- Configure Teams
+- Configure Agents (workers)
+- Configure Users (customers)
+- Configure SLA
+- Configure Help Topics (For when users create a ticket)
 
 <h2>Configuration Steps</h2>
 
