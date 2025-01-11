@@ -26,6 +26,9 @@ We've already created a Virtual Machine and launched a remote desktop. We also t
 
 <h2>Configuration Steps</h2>
 
+- Configure Roles (for grouping permissions)
+Admin Panel -> Agents -> Roles
+Supreme Admin
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
