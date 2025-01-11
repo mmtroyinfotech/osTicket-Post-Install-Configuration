@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. 
-We created Virtual Machine and launched a remote desktop. We also turn the Virtual Machine into a webserver allowing osTicket to operate on it. To follow these stips, click link.(https://github.com/mmtroyinfotech/osticket-prereqs)<br />
+We've already created a Virtual Machine and launched a remote desktop. We also turn the Virtual Machine into a webserver allowing osTicket to operate on it. To follow these stips, click link. https://github.com/mmtroyinfotech/osticket-prereqs<br />
 
 <h2>Environments and Technologies Used</h2>
 
