@@ -26,6 +26,11 @@ We've already created a Virtual Machine and launched a remote desktop. We also t
 
 <h2>Configuration Steps</h2>
 
+After installation enter link in URL:
+http://localhost/osTicket/scp/login.php
+
+<img src="https://imgur.com/ZlNPUQy.png"/>
+
 Configure Roles (for grouping permissions)
 - Admin Panel
 - Agents
