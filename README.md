@@ -4,6 +4,12 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. 
 We've already created a Virtual Machine and launched a remote desktop. We also turn the Virtual Machine into a webserver allowing osTicket to operate on it. To follow these stips, click link. https://github.com/mmtroyinfotech/osticket-prereqs<br />
 
+<video width="500" controls muted loop>
+<source src="video/active-controller.mp4">
+<source src="video/active-controller.webm">
+This browser does not support HTML5 audio
+</video>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
