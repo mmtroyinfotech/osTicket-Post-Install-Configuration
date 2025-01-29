@@ -44,7 +44,8 @@ Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Departments
 SysAdmins
 <p>
-<img src="https://imgur.com/Gabs5fx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Gabs5fx.png"/>
+<img src="https://imgur.com/SD7UABR.png"/>
 </p>
 <br />
 
