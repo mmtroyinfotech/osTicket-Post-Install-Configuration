@@ -42,7 +42,9 @@ Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Departments
 SysAdmins
 
-### [Youtube: How to Configure roles and other in osTicket](https://www.youtube.com/watch?v=0Cy6FPgIfEc)
+<h2>Video Demonstration</h2>
+
+- ### [Youtube: How to Configure roles and other in osTicket](https://www.youtube.com/watch?v=0Cy6FPgIfEc)
 
 <h2>Admin Panel</h2>
 <p>
