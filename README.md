@@ -59,6 +59,15 @@ It's a robust tool to streamline operations and ensure smooth workflow. If you n
 <h2>Agent Panel</h2>
 <p>
 <img src="https://imgur.com/SD7UABR.png"/>
+
+Here's a bit of details about the Agent Panel:
+
+- Task Management: Agents can see what tasks they need to do, and update their progress.
+- Communication Tools: They have ways to talk with their team and customers.
+- Performance Tracking: Agents can check how well they're doing with their work.
+- Knowledge Base: There’s a collection of helpful documents and resources to assist them with their tasks.
+
+The Agent Panel is there to help agents do their jobs more efficiently and stay organized. Let me know if you need more details on any of these features!
 </p>
 <br />
 
