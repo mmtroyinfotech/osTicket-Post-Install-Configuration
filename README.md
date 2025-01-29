@@ -37,7 +37,6 @@ Configure Roles (for grouping permissions)
 - Agents
 - Roles
 - Supreme Admin
-<br />
 
 - ### [Youtube: How to Configure roles and other in osTicket](https://www.youtube.com/watch?v=0Cy6FPgIfEc)
 
@@ -49,10 +48,3 @@ SysAdmins
 </p>
 <br />
 
-- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-Admin Panel -> Agents -> Departments
-SysAdmins
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
