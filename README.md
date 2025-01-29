@@ -47,6 +47,16 @@ SysAdmins
 <h2>Admin Panel</h2>
 <p>
 <img src="https://imgur.com/Gabs5fx.png"/>
+
+The Admin Panel can be incredibly useful in managing and organizing your team effectively. Here’s a bit more detail:
+
+Create Roles and Departments: You can define specific roles (like Admin, Supervisor, Agent) and departments (like Sales, Support, IT) based on your needs.
+
+Assign Agents: Easily allocate agents to their respective roles and departments, ensuring everyone knows their responsibilities.
+
+Agent Privileges: Customize the permissions and access levels for different agents. This allows you to control what each agent can do and see within the system, enhancing security and efficiency.
+
+It's a robust tool to streamline operations and ensure smooth workflow. If you need tips or examples on how to best utilize this feature, just let me know!
 </p>
 <h2>Agent Panel</h2>
 <p>
