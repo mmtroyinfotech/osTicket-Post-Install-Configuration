@@ -27,7 +27,7 @@ We've already created a Virtual Machine and launched a remote desktop. We also t
 <h2>Configuration Steps</h2>
 
 After installation enter link in URL:
-http://localhost/osTicket/scp/login.php
+(http://localhost/osTicket/scp/login.php)
 
 Login with username and login created during Installation.
 <img src="https://imgur.com/ZlNPUQy.png"/>
