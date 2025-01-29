@@ -41,6 +41,9 @@ Configure Roles (for grouping permissions)
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
 SysAdmins
+<br />
+
+- ### [Youtube: How to Configure roles and other in osTicket](https://www.youtube.com/watch?v=0Cy6FPgIfEc)
 
 <h2>Admin Panel</h2>
 <p>
