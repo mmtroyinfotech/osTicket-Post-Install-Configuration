@@ -30,6 +30,7 @@ After installation enter link in URL:
 (http://localhost/osTicket/scp/login.php) into osTicket VM.
 
 Login with username and login created during Installation.
+
 <img src="https://imgur.com/ZlNPUQy.png"/>
 
 Configure Roles (for grouping permissions)
