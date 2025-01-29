@@ -43,8 +43,13 @@ Configure Roles (for grouping permissions)
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
 SysAdmins
+
+<h2>Admin Panel</h2>
 <p>
 <img src="https://imgur.com/Gabs5fx.png"/>
+</p>
+<h2>Agent Panel</h2>
+<p>
 <img src="https://imgur.com/SD7UABR.png"/>
 </p>
 <br />
