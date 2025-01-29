@@ -27,7 +27,7 @@ We've already created a Virtual Machine and launched a remote desktop. We also t
 <h2>Configuration Steps</h2>
 
 After installation enter link in URL:
-(http://localhost/osTicket/scp/login.php)
+(http://localhost/osTicket/scp/login.php) into osTicket VM.
 
 Login with username and login created during Installation.
 <img src="https://imgur.com/ZlNPUQy.png"/>
@@ -44,7 +44,7 @@ Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Departments
 SysAdmins
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Gabs5fx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
